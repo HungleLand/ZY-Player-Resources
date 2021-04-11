@@ -214,7 +214,7 @@
     "name": "阿里云(蓝光高清)",
     "api": "http://cqzyw.net:25535/api.php/provide/vod/at/xml/",
     "download": "",
-    "jiexiUrl": "https://jx.444662.cn/m3u8/?url="",
+    "jiexiUrl": "https://jx.444662.cn/m3u8/?url=",
     "group": "默认",
     "isActive": true
   },
